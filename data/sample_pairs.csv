@@ -1,0 +1,6 @@
+sentence1,sentence2,score
+The sky is blue.,The sky has a blue colour.,0.9
+A cat sat on the mat.,A dog ran in the park.,0.1
+Neural networks learn from data.,Deep learning models are trained on datasets.,0.85
+The capital of France is Paris.,Paris is France's capital city.,0.95
+Quantum computing uses qubits.,Classical computers use binary bits.,0.4
