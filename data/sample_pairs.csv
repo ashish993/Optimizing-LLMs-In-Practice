@@ -1,6 +1,26 @@
 sentence1,sentence2,score
 The sky is blue.,The sky has a blue colour.,0.9
 A cat sat on the mat.,A dog ran in the park.,0.1
-Neural networks learn from data.,Deep learning models are trained on datasets.,0.85
-The capital of France is Paris.,Paris is France's capital city.,0.95
-Quantum computing uses qubits.,Classical computers use binary bits.,0.4
+Python is a programming language.,Python is used for coding.,0.88
+She loves reading books.,She enjoys reading novels.,0.85
+The car is fast.,The vehicle moves quickly.,0.82
+He ate a sandwich for lunch.,He had a sandwich at midday.,0.8
+Machine learning is a subset of AI.,Deep learning is part of machine learning.,0.65
+The restaurant was expensive.,Dining there costs a lot.,0.78
+It rained heavily last night.,There was a thunderstorm yesterday evening.,0.6
+She runs every morning.,She jogs at sunrise.,0.75
+The laptop battery is dead.,The notebook has no charge left.,0.72
+He speaks French fluently.,He is proficient in French.,0.88
+The child is playing outside.,Kids are playing in the garden.,0.7
+The stock market rose today.,Equity prices increased this session.,0.8
+I need to buy groceries.,I have to go shopping for food.,0.85
+The movie was thrilling.,The film kept me on the edge of my seat.,0.75
+She is an excellent teacher.,She teaches very well.,0.82
+The hospital is nearby.,The medical centre is close.,0.78
+He failed the exam.,He did not pass the test.,0.88
+It is very cold outside.,The weather is freezing today.,0.83
+The apple is red.,Apples can be green or yellow.,0.35
+She works at a tech company.,He is retired.,0.05
+The train arrives at noon.,The bus departs at midnight.,0.15
+I enjoy hiking in the mountains.,Urban life is very convenient.,0.08
+The economy is growing.,Inflation is rising rapidly.,0.3
